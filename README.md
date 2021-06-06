@@ -19,6 +19,6 @@ To run the program type the following commands in the terminal:
 `set FLASK_APP=src/app.py`<br>
 `python app.py`<br>
 
-The styling of the web-page is done using <b>![Semantic UI](https://semantic-ui.com/)</b>.
+The styling of the web-page is done using <b>[Semantic UI](https://semantic-ui.com/)</b>.
 
 Made with :heart: by <b>[Kunal](https://www.instagram.com/kunal.sahoo2003)</b>
